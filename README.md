@@ -1,4 +1,4 @@
-# Twitter-fronend
+# Twitter-frontend
 An front-end project that simulate Twitter, based on React implementation
 
 # How to start
