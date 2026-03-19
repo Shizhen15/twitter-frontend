@@ -2,7 +2,8 @@
 An front-end project that simulate Twitter, based on React implementation
 
 # How to start
+npm install
 npm start
 
 # How to access
-https://localhost:3000/
+http://localhost:5173/
